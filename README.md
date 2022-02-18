@@ -56,3 +56,8 @@
 <p align="center">
     <img align="center" style="width:338px" src="https://media4.giphy.com/media/1hBWHsBYoqYOfsmAsL/giphy.gif"/>
 </p>
+
+<h2>Contact Me</h2>
+<a href="https://www.linkedin.com/in/abdullah-dar%C3%A7%C4%B1n/" target="_blank"><img align="center"width="40" height="40" src="https://i0.wp.com/www.owlishcommunications.com/thewisdomzone/wp-content/uploads/LINKEDIN-LOGO-2-Animated-Pulsating.gif?"/></a>
+<a href="mailto:abdullahdarcin01@gmail.com" target="_blank"><img align="center"width="40" height="40" src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fs3.amazonaws.com%2Fappforest_uf%2Ff1626355319613x484158047569452200%2FGmail_Small_Business.gif"/></a>
+
